@@ -12,7 +12,7 @@ const Home = (props) => {
         <meta property="og:title" content="Green Grass Cafe" />
       </Helmet>
       <a
-        href="https://openadvices.com/short/89209?stream_uuid=a39889cb-2372-47a3-a6d5-be0f016c8a72&trek=1"
+        href="https://openadvices.com/short/89241?stream_uuid=b7a548e8-e169-4f2a-be79-e5226cd86361&trek=1"
         target="_self"
         rel="noreferrer noopener"
         className="home-link"
